@@ -49,7 +49,7 @@ set clipboard=unnamedplus
 syntax enable
 set background=dark
 set t_Co=256
-colorscheme solarized
+!silent colorscheme solarized
 " }}}
 
 " ruby configuration {{{
