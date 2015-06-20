@@ -1,7 +1,7 @@
 set nocompatible
 filetype plugin indent on
 
-call plug#begin('~/.nvim/plugged')
+call plug#begin('~/.vim/plugged')
 
 Plug 'Spaceghost/vim-matchit'
 Plug 'tpope/vim-sensible'
