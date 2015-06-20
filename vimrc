@@ -29,14 +29,6 @@ Plug 'ujihisa/neco-ruby', { 'for': 'ruby' }
 Plug 'rust-lang/rust.vim'
 " }}}
 
-" fsharp plugins {{{
-Plug 'fsharp/fsharpbinding', {
-      \ 'for': 'fsharp',
-      \ 'rtp': 'vim',
-      \ 'do':  'make -C vim fsautocomplete',
-      \}
-" }}}
-
 " nim plugins {{{
 Plug 'zah/nimrod.vim', { 'for': 'nim' }
 " }}}
